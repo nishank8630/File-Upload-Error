@@ -1,6 +1,6 @@
 File Upload Error Experience – UX Designer Assignment
 Figma Prototype
-• Figma Link: https://www.figma.com/design/vbTL9BQsGWcbGdCdO52laq/Untitled?node-id=14-25&t=Bnvna964OQlwOSf9-1
+• Figma Link: [https://www.figma.com/design/vbTL9BQsGWcbGdCdO52laq/Untitled?node-id=14-25&t=Bnvna964OQlwOSf9-1](https://www.figma.com/design/vbTL9BQsGWcbGdCdO52laq/File-Upload-Error-Experience?node-id=0-1&t=Bnvna964OQlwOSf9-1)
 ________________________________________
 Project Overview
 This assignment focuses on redesigning the file upload error experience for a web-based dashboard where users upload CSV or Excel files.
@@ -48,6 +48,9 @@ Design Decisions
 •	Reassuring text so users know they should wait
 This prevents uncertainty and makes the system feel responsive.
 
+<img width="931" height="687" alt="Screenshot 2026-05-15 135108" src="https://github.com/user-attachments/assets/eb391f73-534c-4f05-85af-ca9f7b9bd9ab" />
+
+
 3. Upload Result (Error Summary)
 This screen provides a high-level summary of the upload outcome.
 Example Data Used
@@ -66,6 +69,10 @@ Design Decisions
 •	Error breakdown gives users immediate context
 •	Action buttons clearly indicate the next steps
 
+
+<img width="905" height="682" alt="Screenshot 2026-05-15 135117" src="https://github.com/user-attachments/assets/156d7081-4b3f-429b-a4f9-c4c4b7e660e4" />
+
+
 4. Error Review Screen
 This screen shows detailed information about the rows that failed validation.
 Information Displayed
@@ -81,12 +88,18 @@ Design Decisions
 •	Suggested fixes reduce guesswork
 •	Download option allows users to fix issues offline
 
+<img width="910" height="687" alt="Screenshot 2026-05-15 135125" src="https://github.com/user-attachments/assets/6a6500a0-86f0-435d-9480-b715077677b6" />
+
+
 5. Re-upload Corrected File
 Once users correct their CSV externally, they can upload it again.
 Design Decisions
 •	Same upload component as the initial screen
 •	Success message reminding users that the corrected file is ready to upload
 •	Keeps the experience consistent and familiar
+
+<img width="916" height="690" alt="Screenshot 2026-05-15 135134" src="https://github.com/user-attachments/assets/10ed7322-7051-4d91-b16c-e47b8eab37c2" />
+
 
 ## User Flow
 Upload File
@@ -96,6 +109,9 @@ Upload File
 → Download Error Report
 → Fix File Offline
 → Re-upload Corrected File
+
+<img width="1556" height="861" alt="Screenshot 2026-05-15 135150" src="https://github.com/user-attachments/assets/483a24d1-1582-45fa-b77a-3476c83f66a8" />
+
 
 ## Design Consistency
 

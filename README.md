@@ -37,6 +37,9 @@ Design Decisions
 •	Primary CTA button: Upload File
 •	Clear note that validation will happen after upload
 
+<img width="947" height="692" alt="Screenshot 2026-05-15 135057" src="https://github.com/user-attachments/assets/b05c9b4d-7c24-43d9-944a-d93c4846d95e" />
+
+
 2. Processing State
 After uploading, users see a processing screen while the system validates the file.
 Design Decisions

@@ -9,9 +9,13 @@ The main objective was to make the upload process easier to understand when vali
 ## Problem Understanding
 In the current flow, users upload a file but often struggle to understand:
 •	Whether the upload was successful
+
 •	How many records failed
+
 •	Why those records failed
+
 •	What they need to do next
+
 This creates confusion and slows down the import process.
 
 ## Design Goal
